@@ -1,0 +1,11 @@
+[package]
+name = "chor"
+version = "0.1.0"
+authors = ["Erick Hernandez <erickhdez996@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
