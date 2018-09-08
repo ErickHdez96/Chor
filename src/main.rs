@@ -13,7 +13,6 @@ use glutin_window::GlutinWindow as Window;
 use opengl_graphics::{ GlGraphics, OpenGL };
 use std::fs::File;
 use std::io;
-use std::time::Instant;
 
 pub struct App {
     gl: GlGraphics, // OpenGL drawing backend.
